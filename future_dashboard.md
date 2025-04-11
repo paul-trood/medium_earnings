@@ -1,4 +1,4 @@
-It sounds like your analysis of the earnings drop is closely tied to a broader trend among Medium writers, and it would be interesting to frame this in your dashboard or report to highlight the impact of Medium's changes on earnings. Given the context of the “interesting” times for Medium, this shift might be due to several factors:
+analysis of the earnings drop is closely tied to a broader trend among Medium writers, and it would be interesting to frame this in the dashboard or report to highlight the impact of Medium's changes on earnings. Given the context of the “interesting” times for Medium, this shift might be due to several factors:
 Potential Factors to Consider in Your Analysis:
 
     Algorithm Changes:
