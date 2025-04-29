@@ -25,11 +25,9 @@ This dataset is **manually recorded** by me each month. No APIs, scraping, or au
 - **Explore engagement metrics** to identify patterns  
 - **Create visualizations** to track progress  
 
-## 📌 Future Enhancements  
-
-- Potentially explore **basic machine learning models** to predict earnings  
+## 📌 Future Enhancements
+  
 - Develop a **dashboard** for real-time tracking  
-
 ---
 🚀🚀🚀🚀🚀
 
